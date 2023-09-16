@@ -10,7 +10,7 @@ Reaper is a tool allowing you to reverse .EXE files compiled with PyInstaller ba
 original source, Python, showing you the source code of the file.
 <br><br><br>
 </strong>
-<img src="https://cdn.discordapp.com/attachments/939144955304235050/981311945258967103/unknown.png" width="801", height="420">
+<img src="https://cdn.discordapp.com/attachments/824346149719900210/1152632461025628213/image.png" width="801", height="420">
 </p>
 <br>
 
